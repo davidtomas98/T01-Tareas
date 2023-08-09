@@ -2,25 +2,29 @@
 
 ¡Bienvenido a **T01-Tareas**! 
 
-```bash
+
 # Instalación
 # Clonar el Repositorio
 
+```bash
 git clone https://github.com/tu-usuario/mi-proyecto-increible.git
-
+```
 
 # Acceder al Directorio
-cd mi-proyecto-increible
 
+```bash
+cd T01-Tareas
+```
 # Listo! Ahora puedes continuar con las siguientes instrucciones para ejecutar el proyecto.
 
 # Ejecución
 # Asegúrate de tener instalado el SDK de .NET Core en tu máquina.
-# En la terminal, ve al directorio del proyecto:
-cd mi-proyecto-increible
 
-# Ejecuta el proyecto utilizando el siguiente comando:
+# En la terminal, ejecuta el proyecto utilizando el siguiente comando:
+
+```bash
 dotnet run
+```
 
 # Licencia
 # Este proyecto está bajo la licencia MIT.
