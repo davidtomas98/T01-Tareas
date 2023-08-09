@@ -5,19 +5,19 @@
 
 ## Instalación
 
-Clonar el Repositorio
+Clonar el Repositorio:
 
 ```bash
 git clone https://github.com/davidtomas98/T01-Tareas.git
 ```
 
-Acceder al Directorio Task1
+Si quieres probar la Task1, acceder al Directorio Task1:
 
 ```bash
 cd task1
 ```
 
-Ho en caso de probar la Task
+Ho en caso de probar la Task2, acceder al Directorio Task2:
 
 ```bash
 cd task2
