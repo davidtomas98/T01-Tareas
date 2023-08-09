@@ -8,14 +8,21 @@
 Clonar el Repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/mi-proyecto-increible.git
+git clone https://github.com/davidtomas98/T01-Tareas.git
 ```
 
-Acceder al Directorio
+Acceder al Directorio Task1
 
 ```bash
-cd T01-Tareas
+cd task1
 ```
+
+Ho en caso de probar la Task
+
+```bash
+cd task2
+```
+
 Listo! Ahora puedes continuar con las siguientes instrucciones para ejecutar el proyecto.
 
 ## Ejecución
