@@ -14,13 +14,13 @@ git clone https://github.com/davidtomas98/T01-Tareas.git
 Si quieres probar la Task1, acceder al Directorio Task1:
 
 ```bash
-cd task1
+cd Ejercicio1/Program.cs
 ```
 
 Ho en caso de probar la Task2, acceder al Directorio Task2:
 
 ```bash
-cd task2
+cd Ejercicio2/Program.cs
 ```
 
 Listo! Ahora puedes continuar con las siguientes instrucciones para ejecutar el proyecto.
